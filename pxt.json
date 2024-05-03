@@ -3,13 +3,10 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*"
     },
     "files": [
-        "main.ts",
         "README.md",
-        "main.py",
         "custom.ts"
     ],
     "testFiles": [
